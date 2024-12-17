@@ -9,6 +9,7 @@ body{
 
 .container{
     display:flex;
+    flex-direction: row-reverse;
     flex-wrap: wrap;
     justify-content: center;
     width: 100%;
